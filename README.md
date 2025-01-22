@@ -8,7 +8,7 @@ A dedicated **Full Stack Web Developer** with extensive expertise in building ro
 ## 🌟 **About Me**  
 I bring strong proficiency in:  
 - **PHP**, **Laravel**, and **MySQL** for backend development  
-- **HTML**, **CSS**, **Bootstrap**, and **JavaScript** for responsive and visually appealing frontends  
+- **HTML**, **CSS**, **Bootstrap**, **JavaScript** and **VueJS** for responsive and visually appealing frontends  
 
 ---
 
