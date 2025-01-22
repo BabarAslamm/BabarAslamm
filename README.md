@@ -59,4 +59,4 @@ I specialize in crafting tailored solutions to meet client needs, ranging from:
 - ✅ Excellent communication skills for effective collaboration and regular updates  
 - ✅ High-quality results to bring your vision to life  
 
-<h2>BYE</h2>
+
